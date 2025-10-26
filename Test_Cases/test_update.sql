@@ -1,0 +1,1 @@
+UPDATE Employee SET Salary = 65000, Department = 'Analytics' WHERE EmpID=1;
